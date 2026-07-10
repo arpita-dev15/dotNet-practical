@@ -1,0 +1,15 @@
+D:\.net practical\Assignment\Practice\10Jul\bin\Debug\net8.0\10Jul.exe
+D:\.net practical\Assignment\Practice\10Jul\bin\Debug\net8.0\10Jul.deps.json
+D:\.net practical\Assignment\Practice\10Jul\bin\Debug\net8.0\10Jul.runtimeconfig.json
+D:\.net practical\Assignment\Practice\10Jul\bin\Debug\net8.0\10Jul.dll
+D:\.net practical\Assignment\Practice\10Jul\bin\Debug\net8.0\10Jul.pdb
+D:\.net practical\Assignment\Practice\10Jul\obj\Debug\net8.0\10Jul.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net practical\Assignment\Practice\10Jul\obj\Debug\net8.0\10Jul.AssemblyInfoInputs.cache
+D:\.net practical\Assignment\Practice\10Jul\obj\Debug\net8.0\10Jul.AssemblyInfo.cs
+D:\.net practical\Assignment\Practice\10Jul\obj\Debug\net8.0\10Jul.csproj.CoreCompileInputs.cache
+D:\.net practical\Assignment\Practice\10Jul\obj\Debug\net8.0\10Jul.sourcelink.json
+D:\.net practical\Assignment\Practice\10Jul\obj\Debug\net8.0\10Jul.dll
+D:\.net practical\Assignment\Practice\10Jul\obj\Debug\net8.0\refint\10Jul.dll
+D:\.net practical\Assignment\Practice\10Jul\obj\Debug\net8.0\10Jul.pdb
+D:\.net practical\Assignment\Practice\10Jul\obj\Debug\net8.0\10Jul.genruntimeconfig.cache
+D:\.net practical\Assignment\Practice\10Jul\obj\Debug\net8.0\ref\10Jul.dll

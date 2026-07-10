@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net practical\\Assignment\\Practice\\9Jul\\9Jul.csproj": {}
+    "D:\\.net practical\\Assignment\\Assignment3\\Assignment3.csproj": {}
   },
   "projects": {
-    "D:\\.net practical\\Assignment\\Practice\\9Jul\\9Jul.csproj": {
+    "D:\\.net practical\\Assignment\\Assignment3\\Assignment3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net practical\\Assignment\\Practice\\9Jul\\9Jul.csproj",
-        "projectName": "9Jul",
-        "projectPath": "D:\\.net practical\\Assignment\\Practice\\9Jul\\9Jul.csproj",
+        "projectUniqueName": "D:\\.net practical\\Assignment\\Assignment3\\Assignment3.csproj",
+        "projectName": "Assignment3",
+        "projectPath": "D:\\.net practical\\Assignment\\Assignment3\\Assignment3.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\.net practical\\Assignment\\Practice\\9Jul\\obj\\",
+        "outputPath": "D:\\.net practical\\Assignment\\Assignment3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
