@@ -1,0 +1,14 @@
+D:\dotnet practical\Day2\obj\Debug\net8.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet practical\Day2\obj\Debug\net8.0\Day2.AssemblyInfoInputs.cache
+D:\dotnet practical\Day2\obj\Debug\net8.0\Day2.AssemblyInfo.cs
+D:\dotnet practical\Day2\obj\Debug\net8.0\Day2.csproj.CoreCompileInputs.cache
+D:\dotnet practical\Day2\bin\Debug\net8.0\Day2.exe
+D:\dotnet practical\Day2\bin\Debug\net8.0\Day2.deps.json
+D:\dotnet practical\Day2\bin\Debug\net8.0\Day2.runtimeconfig.json
+D:\dotnet practical\Day2\bin\Debug\net8.0\Day2.dll
+D:\dotnet practical\Day2\bin\Debug\net8.0\Day2.pdb
+D:\dotnet practical\Day2\obj\Debug\net8.0\Day2.dll
+D:\dotnet practical\Day2\obj\Debug\net8.0\refint\Day2.dll
+D:\dotnet practical\Day2\obj\Debug\net8.0\Day2.pdb
+D:\dotnet practical\Day2\obj\Debug\net8.0\Day2.genruntimeconfig.cache
+D:\dotnet practical\Day2\obj\Debug\net8.0\ref\Day2.dll
