@@ -1,0 +1,15 @@
+D:\.net practical\Assignment\Assignment7\obj\Debug\net10.0\Assignment7.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net practical\Assignment\Assignment7\obj\Debug\net10.0\Assignment7.AssemblyInfoInputs.cache
+D:\.net practical\Assignment\Assignment7\obj\Debug\net10.0\Assignment7.AssemblyInfo.cs
+D:\.net practical\Assignment\Assignment7\obj\Debug\net10.0\Assignment7.csproj.CoreCompileInputs.cache
+D:\.net practical\Assignment\Assignment7\obj\Debug\net10.0\Assignment7.sourcelink.json
+d:\.net practical\Assignment\Assignment7\bin\Debug\net10.0\Assignment7.exe
+d:\.net practical\Assignment\Assignment7\bin\Debug\net10.0\Assignment7.deps.json
+d:\.net practical\Assignment\Assignment7\bin\Debug\net10.0\Assignment7.runtimeconfig.json
+d:\.net practical\Assignment\Assignment7\bin\Debug\net10.0\Assignment7.dll
+d:\.net practical\Assignment\Assignment7\bin\Debug\net10.0\Assignment7.pdb
+d:\.net practical\Assignment\Assignment7\obj\Debug\net10.0\Assignment7.dll
+d:\.net practical\Assignment\Assignment7\obj\Debug\net10.0\refint\Assignment7.dll
+d:\.net practical\Assignment\Assignment7\obj\Debug\net10.0\Assignment7.pdb
+d:\.net practical\Assignment\Assignment7\obj\Debug\net10.0\Assignment7.genruntimeconfig.cache
+d:\.net practical\Assignment\Assignment7\obj\Debug\net10.0\ref\Assignment7.dll

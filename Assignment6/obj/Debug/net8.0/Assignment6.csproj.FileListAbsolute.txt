@@ -1,0 +1,15 @@
+D:\.net practical\Assignment\Assignment6\obj\Debug\net8.0\Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net practical\Assignment\Assignment6\obj\Debug\net8.0\Assignment6.AssemblyInfoInputs.cache
+D:\.net practical\Assignment\Assignment6\obj\Debug\net8.0\Assignment6.AssemblyInfo.cs
+D:\.net practical\Assignment\Assignment6\obj\Debug\net8.0\Assignment6.csproj.CoreCompileInputs.cache
+D:\.net practical\Assignment\Assignment6\obj\Debug\net8.0\Assignment6.sourcelink.json
+d:\.net practical\Assignment\Assignment6\bin\Debug\net8.0\Assignment6.exe
+d:\.net practical\Assignment\Assignment6\bin\Debug\net8.0\Assignment6.deps.json
+d:\.net practical\Assignment\Assignment6\bin\Debug\net8.0\Assignment6.runtimeconfig.json
+d:\.net practical\Assignment\Assignment6\bin\Debug\net8.0\Assignment6.dll
+d:\.net practical\Assignment\Assignment6\bin\Debug\net8.0\Assignment6.pdb
+d:\.net practical\Assignment\Assignment6\obj\Debug\net8.0\Assignment6.dll
+d:\.net practical\Assignment\Assignment6\obj\Debug\net8.0\refint\Assignment6.dll
+d:\.net practical\Assignment\Assignment6\obj\Debug\net8.0\Assignment6.pdb
+d:\.net practical\Assignment\Assignment6\obj\Debug\net8.0\Assignment6.genruntimeconfig.cache
+d:\.net practical\Assignment\Assignment6\obj\Debug\net8.0\ref\Assignment6.dll
